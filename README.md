@@ -56,11 +56,17 @@ This project presents a multitask deep learning framework for real-time **vehicl
 ## Tech Stack
 
  Python
+ 
  [YOLOv5](https://github.com/ultralytics/yolov5)
+ 
  TensorFlow / PyTorch
+ 
  OpenCV
+ 
  Scikit-learn (for GridSearchCV)
+ 
  Custom Focal Loss
+ 
  LSTM + Attention Mechanism
 
 
