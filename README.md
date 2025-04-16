@@ -1,5 +1,4 @@
 ## Problem Statement
-
 In autonomous driving and driver-assist systems, timely identification of **cut-in maneuvers** (where a vehicle suddenly enters another vehicle's lane) is critical for preventing accidents. However, detecting such events in real-world traffic is challenging due to:
 - Their **rarity** and **class imbalance** in driving datasets,
 - The need to **understand temporal vehicle behavior**,
