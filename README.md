@@ -7,12 +7,12 @@ In autonomous driving and driver-assist systems, timely identification of **cut-
 
 This project proposes a **multitask deep learning model** that not only detects cut-in events but also predicts the **direction** of approaching vehicles, enabling intelligent warning systems that improve driving safety.
 
----
+
 
 ##  Overview
 This project presents a multitask deep learning framework for real-time **vehicle cut-in detection** and **movement direction prediction**, enhancing road safety in autonomous driving environments. The model is designed to handle **class imbalance**, incorporate **temporal dependencies**, and provide **real-time driver alerts** using advanced deep learning components.
 
----
+
 
 ##  Key Features
 
@@ -52,7 +52,7 @@ This project presents a multitask deep learning framework for real-time **vehicl
 - Visualizes attention weights across the input sequence.
 - Useful for debugging and understanding how the model makes decisions.
 
----
+
 
 ## Tech Stack
 
@@ -64,9 +64,9 @@ This project presents a multitask deep learning framework for real-time **vehicl
 - Custom Focal Loss
 - LSTM + Attention Mechanism
 
----
 
-## 📈 Results
+
+## Results
 - Higher detection and prediction accuracy with multitask learning.
 - Improved performance on rare events through focal loss.
 - Real-time alerts for improved driver awareness and safety.
